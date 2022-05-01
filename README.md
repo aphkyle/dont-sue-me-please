@@ -8,4 +8,4 @@ will be great if anyone can help me out here.
 
 # why
 tryin to make a webgl2 wrapper for my nim 3d lib,
-i wanted to copy mozilla docs a bit, but i still want to use mit license, so i got this shitty idea.
+i wanted to copy mozilla docs (which is licensed under ccbysa2.5) a bit, but i still want to use mit license, so i got this shitty idea.
