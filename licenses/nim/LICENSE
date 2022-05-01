@@ -1,0 +1,24 @@
+(DONT SUE ME PLEASE)[for Nim Programming Language] LICENSE
+
+Copyright 2022 aphkyle
+Version 0a.0.0
+
+
+Nim Programming Language:
+  Comment = ##<insert comment here>
+  OR
+  Comment = ##[<insert comment here>]
+  OR
+  Comment = #<insert comment here>
+  OR
+  Comment = #[<insert comment here>]
+Comments = more than 1 comment
+Comments are in either the `/docs/` folder OR in `.nim` files.
+Comments are licensed under CC-BY-SA 4.0
+
+
+Code = anything that isn't comment and that are in `.nim` files.
+Code here are licensed under MIT
+
+
+Anything else that isn't code nor comments (such as `.html`, `.css`, `.js`...) here are under CC0 License
